@@ -12,6 +12,6 @@
 
 ### TODOS
 
-[ ] Add base tsconfig
+- [ ] Add base tsconfig
 
-[ ] Add base eslint config
+- [ ] Add base eslint config
