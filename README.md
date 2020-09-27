@@ -9,3 +9,8 @@
 2. `nvm use` or `nvm i`
 
 3. `npm start`
+
+### TODOS
+
+[ ] - Add base tsconfig
+[ ] - Add base eslint config
